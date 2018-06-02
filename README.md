@@ -68,8 +68,11 @@ III. Algorithm steps in main()
 *******************************
 
 step 0: open all files
+
 ( numRowsImg, numColsImg, minImg, maxImg ) <- get from input1
+
 ( numRowsStrctElem, numColsStrctElem, minStrctElem, maxStrctElem ) <- get from input2
+
 ( rowOrigin, colOrigin) <-get from input2
 
 step 1: computeFrameSize
